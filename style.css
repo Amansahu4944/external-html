@@ -1,0 +1,38 @@
+body{
+    background-color: orangered;
+}
+.heading{
+    background-color: lightblue;
+}
+.head2{
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: dashed;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    text-shadow: 19px 4px 5px blue;
+    text-align: center;
+}
+.head{
+    color: blue;
+    font-size: 50px ;
+    font-style: oblique;
+    text-decoration-color: black;
+    text-shadow: 3px 2px 8px;
+    text-align: center;
+    
+
+
+}
+.para{
+    font-weight: bold;
+}
+.head3{
+    font-family: verdana;
+}
+.heading{
+    text-align: center;
+}
